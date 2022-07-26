@@ -18,7 +18,7 @@
 
 ## 🖋 Project description
 
-The project follows the NestJs monorepo standard and should be able to create a user and log in. In addition to creating, editing, updating and deleting movie posters for a cinema only if you are logged in.
+The project follows the NestJs monorepo standard and should be able to create a user and login. In addition to viewing, editing, creating and deleting movie posters for a cinema. You can only access the ```Movies``` api by logging into the ```Authentication``` api.
 
 ---
 
