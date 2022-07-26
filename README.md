@@ -80,6 +80,25 @@ to run the tests run the command:
 
 ---
 
+## Example Env
+
+```
+JWT_SECRET=
+JWT_EXPERIS_IN=
+
+# DATABASE
+
+POSTGRES_HOST=
+POSTGRES_PORT=
+POSTGRES_USER=
+POSTGRES_PASSWORD=
+POSTGRES_DB=
+POSTGRES_SYNC=
+
+```
+
+---
+
 ** OBS
 
 what still needs to be done:
